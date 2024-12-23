@@ -17,6 +17,13 @@
 
 ![alt](https://xianyi-img.eu.org/1734927419897.png)
 
+- 支持多行&自定义前缀
+
+```bash
+www.baidu.com
+AND,((DOMAIN-SUFFIX,baidu.com), (PROCESS-NAME,app))
+```
+
 ## 部署
 
 1. 创建 D1 数据库
