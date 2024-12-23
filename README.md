@@ -1,6 +1,6 @@
 # 介绍
 
-基于 Cloudflare D1&worker 的surge规则服务
+基于 Cloudflare D1&worker 的规则服务
 
 用于管理需要自行维护的规则分类
 
